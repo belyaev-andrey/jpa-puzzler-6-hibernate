@@ -12,9 +12,9 @@ import java.util.Objects;
 public class PetType {
 
     @Id
-    private Long id; //GET,SET
+    private Long id;
 
-    private String name; //GET,SET
+    private String name;
 
     public Long getId() {
         return id;
