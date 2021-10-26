@@ -1,0 +1,1 @@
+create table pettype (id int primary key, name varchar);
